@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\bin\Debug\net8.0\SquaredSorting.exe
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\bin\Debug\net8.0\SquaredSorting.deps.json
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\bin\Debug\net8.0\SquaredSorting.runtimeconfig.json
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\bin\Debug\net8.0\SquaredSorting.dll
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\bin\Debug\net8.0\SquaredSorting.pdb
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\obj\Debug\net8.0\SquaredSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\obj\Debug\net8.0\SquaredSorting.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\obj\Debug\net8.0\SquaredSorting.AssemblyInfo.cs
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\obj\Debug\net8.0\SquaredSorting.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\obj\Debug\net8.0\SquaredSorting.dll
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\obj\Debug\net8.0\refint\SquaredSorting.dll
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\obj\Debug\net8.0\SquaredSorting.pdb
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\obj\Debug\net8.0\SquaredSorting.genruntimeconfig.cache
+C:\Users\encho\source\repos\SortingZadachi\SquaredSorting\obj\Debug\net8.0\ref\SquaredSorting.dll

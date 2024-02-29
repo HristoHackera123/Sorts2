@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\bin\Debug\net8.0\SortGreaterOrEqual.exe
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\bin\Debug\net8.0\SortGreaterOrEqual.deps.json
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\bin\Debug\net8.0\SortGreaterOrEqual.runtimeconfig.json
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\bin\Debug\net8.0\SortGreaterOrEqual.dll
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\bin\Debug\net8.0\SortGreaterOrEqual.pdb
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\obj\Debug\net8.0\SortGreaterOrEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\obj\Debug\net8.0\SortGreaterOrEqual.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\obj\Debug\net8.0\SortGreaterOrEqual.AssemblyInfo.cs
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\obj\Debug\net8.0\SortGreaterOrEqual.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\obj\Debug\net8.0\SortGreaterOrEqual.dll
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\obj\Debug\net8.0\refint\SortGreaterOrEqual.dll
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\obj\Debug\net8.0\SortGreaterOrEqual.pdb
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\obj\Debug\net8.0\SortGreaterOrEqual.genruntimeconfig.cache
+C:\Users\encho\source\repos\SortingZadachi\SortGreaterOrEqual\obj\Debug\net8.0\ref\SortGreaterOrEqual.dll
